@@ -30,8 +30,8 @@ https://youtube.com/shorts/TOsjFpwztxs?si=jLOTwwjx0vi9ndan
 
 
     // ver. 0.10
-    //   - 64MB SDRAM
-    //   - 2 OLED displays
+    //    - 64MB SDRAM
+    //    - 2 OLED displays
     // 		- added scratch track
     //	ver. 0.21
     //		- project ported to new pcb
