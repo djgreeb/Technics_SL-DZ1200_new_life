@@ -19,6 +19,12 @@ Technics SL-DZ1200 new life. Comparison of sound and construction with the origi
 https://youtu.be/YNCWHuYRNV8?si=jEZ1Wb_wVn2iVH1T
 
 Other videos:
+
 https://youtube.com/shorts/xwd6WtisLp0?si=1c5YiPtq2MnMOLq1
 
 https://youtube.com/shorts/Ao05V8m91X4?si=t5FqrDS9XYP-LJhe
+
+https://youtube.com/shorts/iWsxXxv2L6M?si=lasyaPYv3nFeNMoB
+
+https://youtube.com/shorts/TOsjFpwztxs?si=jLOTwwjx0vi9ndan
+
