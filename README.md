@@ -14,3 +14,11 @@ Digital SPDIF output is supported.
 In addition to replacing the motherboard, it is necessary to modify the control panel boards and replace the display module.
 
 
+Technics SL-DZ1200 new life. Comparison of sound and construction with the original deck:
+
+https://youtu.be/YNCWHuYRNV8?si=jEZ1Wb_wVn2iVH1T
+
+Other videos:
+https://youtube.com/shorts/xwd6WtisLp0?si=1c5YiPtq2MnMOLq1
+
+https://youtube.com/shorts/Ao05V8m91X4?si=t5FqrDS9XYP-LJhe
