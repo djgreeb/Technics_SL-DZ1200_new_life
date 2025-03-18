@@ -75,33 +75,33 @@ https://youtube.com/shorts/TOsjFpwztxs?si=jLOTwwjx0vi9ndan
     //	ver. 0.42
     //		- added rekordbox parser
     //	ver. 0.43
-    //		-	add blinking pads
+    //		- add blinking pads
     //	ver. 0.44
     //		- minor fixes
     //	ver. 0.47
-    //		-	added test sdram
-    //		-	added uart status messages
+    //		- added test sdram
+    //		- added uart status messages
     //	ver. 0.49
-    //		-	added support use_lfn in fatfs
+    //		- added support use_lfn in fatfs
     //		- minor fixes
     //	ver. 0.51
     //		- improved SDRAM test
-    //		-	added fw version register to main.c
+    //		- added fw version register to main.c
     //	ver. 0.53
     //		- minor fixes
-    //		-	changed the size of the heap and stack by 2X. Now Stack_Size 0x1000; Heap_Size 0x800;
+    //		- changed the size of the heap and stack by 2X. Now Stack_Size 0x1000; Heap_Size 0x800;
     //	ver. 0.57
-    //		-	improved OLED library
+    //		- improved OLED library
     //		- rekordbox parser optimized
     //	ver. 0.61
-    //		-	improved OLED library
-    //		-	improved track loading process
+    //		- improved OLED library
+    //		- improved track loading process
     //	ver. 0.63
-    //		-	added optimization waveforms with color coefficient
+    //		- added optimization waveforms with color coefficient
     //	ver. 0.67
     //		- rekordbox parser improved
     //	ver. 0.68
-    //		-	fixed drawing of static waveform
+    //		- fixed drawing of static waveform
     //	ver. 0.69
     //		- minor fixes
     //	ver. 0.70
@@ -113,11 +113,11 @@ https://youtube.com/shorts/TOsjFpwztxs?si=jLOTwwjx0vi9ndan
     //	ver. 0.74
     //		- minor fixes
     //	ver. 0.77
-    //		-	improved DrawMinuteMarkers()
+    //		- improved DrawMinuteMarkers()
     //		- added ShowTempo()
     //	ver. 0.81
     //		- removed initialization of SDRAM area from the scatter file, which significantly speeded up system startup
-    //		-	added mini sdram test
+    //		- added mini sdram test
     //		- added ShowBPM()
     //	ver. 0.85
     //		- changed SDRAM parameter SdramTiming.WriteRecoveryTime = 4;			//2	//4 
@@ -130,32 +130,32 @@ https://youtube.com/shorts/TOsjFpwztxs?si=jLOTwwjx0vi9ndan
     //		- regenerated code in CubeMX
     //		- added encoder and timecode handlers
     //	ver. 0.89
-    //		-	added timecode encoder in code handler
+    //		- added timecode encoder in code handler
     //	ver. 0.90
     //		- minor fixes
     //	ver. 0.92
     //		- fixed oled ram select
     //	ver. 0.93
-    //		-	added ROOT DISPLAY
+    //		- added ROOT DISPLAY
     //	ver. 0.97
     //		- improved BORWSER functions
     //	ver. 0.98
-    //		-	added SD cars remove-insert handler
+    //		- added SD cars remove-insert handler
     //	ver. 0.99 
-    //		-	improved OLED_Putc function for outputting cut characters
+    //		- improved OLED_Putc function for outputting cut characters
     //	ver. 1.00 
     //		- fixed gui bug
     //	ver. 1.03 
     //		- fixed gui bug (increased size Stack_Size 0x1000, Heap_Size 0x800)
     //		- improved waveform code
     //	ver. 1.05
-    //		-	FontCDJ900 minor fixes
-    //		-	improved gui
-    //		-	added SD card symbol 
+    //		- FontCDJ900 minor fixes
+    //		- improved gui
+    //		- added SD card symbol 
     //	ver. 1.07
-    //		-	added beatjump with calculate jump distantion
-    //		-	added hot cues a, b, c
+    //		- added beatjump with calculate jump distantion
+    //		- added hot cues a, b, c
     //	ver. 1.11
-    //		-	improved gui 
-    //		-	add browser animation
-    //		-	add 8 HOT CUES and PADS color from *.EXT file
+    //		- improved gui 
+    //		- add browser animation
+    //		- add 8 HOT CUES and PADS color from *.EXT file
